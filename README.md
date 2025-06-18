@@ -64,7 +64,7 @@ View the presentation:
 | Name | Role | Social |
 |------|------|--------|
 | Chidinma Ogbulie | Robotics Engineer | [LinkedIn](https://www.linkedin.com/in/chidinma-ogbulie) |
-| Joseph Fatoye | Mechatronics Engineer, Bowen University | [LinkedIn](https://www.linkedin.com/in/fatoyejoseph) |
+| Joseph Fatoye | Mechatronics Engineer, Bowen University | [LinkedIn](https://www.linkedin.com/in/josephfatoye) |
 
 ---
 
